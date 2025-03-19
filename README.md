@@ -43,4 +43,3 @@ Uygulama, güvenli kimlik doğrulama ve yetkilendirme için **JWT (JSON Web Toke
 - **Korumalı Endpoint'ler:**  
   JWT kimlik doğrulaması gerektiren endpoint'ler, token doğrulandıktan sonra işlenir.
 
----
