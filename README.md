@@ -44,10 +44,3 @@ Uygulama, güvenli kimlik doğrulama ve yetkilendirme için **JWT (JSON Web Toke
   JWT kimlik doğrulaması gerektiren endpoint'ler, token doğrulandıktan sonra işlenir.
 
 ---
-
-## 🚀 Nasıl Çalıştırılır?
-
-### 1️⃣ Projeyi Klonlayın:
-```bash
-git clone https://github.com/kullaniciadi/gallerist-app.git
-cd gallerist-app
